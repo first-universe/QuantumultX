@@ -1,0 +1,25 @@
+#!name = DNS防泄漏
+HOST-SUFFIX, dnsleaktest.com, PROXY
+HOST-SUFFIX, dnsleak.com, PROXY
+HOST-SUFFIX, expressvpn.com, PROXY
+HOST-SUFFIX, nordvpn.com, PROXY
+HOST-SUFFIX, surfshark.com, PROXY
+HOST-SUFFIX, ipleak.net, PROXY
+HOST-SUFFIX, perfect-privacy.com, PROXY
+HOST-SUFFIX, browserleaks.com, PROXY
+HOST-SUFFIX, browserleaks.org, PROXY
+HOST-SUFFIX, vpnunlimited.com, PROXY
+HOST-SUFFIX, whoer.net, PROXY
+HOST-SUFFIX, whrq.net, PROXY
+
+# Astrill
+HOST-SUFFIX, astrill.com, PROXY
+HOST-SUFFIX, astrill.org, PROXY
+HOST-SUFFIX, dnsleak.asn247.net, PROXY
+
+# Surfshark
+HOST-SUFFIX, surfshark.com, PROXY
+HOST-SUFFIX, surfsharkdns.com, PROXY
+
+# Pixelscan
+HOST-SUFFIX, pixelscan.net, PROXY
