@@ -1,0 +1,9 @@
+{"name":"Universe", 
+"description":"Integrate various icons", 
+ "icons":[{"name":"byg.png", "url":"https://raw.githubusercontent.com/first-universe/QuantumultX/main/Color/byg.png"},
+{"name":"byg-1.png", "url":"https://raw.githubusercontent.com/first-universe/QuantumultX/main/Color/byg-1.png"},
+{"name":"xsus-1.png", "url":"https://raw.githubusercontent.com/first-universe/QuantumultX/main/Color/xsus-1.png"},
+{"name":"paoluz.png", "url":"https://raw.githubusercontent.com/first-universe/QuantumultX/main/Color/paoluz.png"},
+{"name":"yiyuan.png", "url":"https://raw.githubusercontent.com/first-universe/QuantumultX/main/Color/yiyuan.png"},
+{"name":"OpenAI.png", "url":"https://raw.githubusercontent.com/first-universe/QuantumultX/main/Color/OpenAI.png"},
+{"name":"ChatGPT.png", "url":"https://raw.githubusercontent.com/first-universe/QuantumultX/main/Color/ChatGPT.png"}]}
