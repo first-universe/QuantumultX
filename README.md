@@ -3,7 +3,7 @@
 ## 1️⃣ Configuration and information
 QuantumultX配置文件： [***QuantumultX.conf***](https://raw.githubusercontent.com/first-universe/QuantumultX/main/Luffy-qx.conf)
 
-information： E-mail：***zhenliantd@gmail.com***
+Email contact information：***zhenliantd@gmail.com***
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
